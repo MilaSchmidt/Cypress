@@ -1,0 +1,5 @@
+- API--> Interfaz de programacion de aplicaciones.
+- API REST/API SOAP--> 
+REST (JSON): transferencia de estado representacional, no es protocolo(usada en los requisitos HTTP-->protocolo de transferencia de hipertexto). Una interfaz uniforme entre elementos para que la información se transfiera de forma estandarizada, en lugar de ser específica para las necesidades de cierta aplicación
+ 
+ SOAP(Protocolo simple de acceso a objetos): los mensajes SOAP de retorno deben ser documentos XML, que es un lenguaje de marcado que comprenden las personas y las máquinas. Se creó originalmente para permitir la comunicación entre las aplicaciones que se diseñaban con diferentes lenguajes y en diferentes plataformas
